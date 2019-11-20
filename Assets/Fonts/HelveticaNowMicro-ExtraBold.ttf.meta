@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 780834a0fce12794e86332d43fa02fcf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Helvetica Now Micro
+  fontNames:
+  - Helvetica Now Micro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6bfd7f089e6e41c4188212370c8e3459, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
