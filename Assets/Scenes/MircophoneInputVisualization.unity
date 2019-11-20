@@ -39845,7 +39845,7 @@ MonoBehaviour:
   _materialsource: {fileID: 2100000, guid: 6e435d454e57370439f3c35fc8849cca, type: 2}
   _matVortexSource: {fileID: 2100000, guid: 9783a9a38a2207b4cae9b6bed56dc0b8, type: 2}
   _diffuseColorMultiplier: 2
-  _emissionColorMultiplier: 100
+  _emissionColorMultiplier: 2
   _treshold: 0.2
   _transparency: 0.3
 --- !u!1 &1741518077
